@@ -3,7 +3,7 @@
 Simple debian container with the sshd service.
 
 # Why?
-Nearly every public container was outdated and didn't work, that's why I created
+Every public dockerfile I found was outdated and didn't work, that's why I created
 my own.
 
 # How to use
