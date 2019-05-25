@@ -7,7 +7,7 @@ Nearly every public container was outdated and didn't work, that's why I created
 my own.
 
 # How to use
-`docker run -d -p 22:22 mxrk/debian-ssh`
+`docker run -d -p 22:22 mxrkw/debian-ssh`
 
 
 `ssh root@container -p 22`
